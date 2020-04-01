@@ -5,7 +5,11 @@ Bu program; Tkinter modülünü kullanmaktadır. Tkinter modülü için:
 
 $ pip install tkinter
 
-komutunu terminale yazmanız yeterlidir. 
+komutunu terminale yazmanız yeterlidir. Geriye kalan tek şey consol ekranına:
+
+$ python3 main.py
+
+yazmak!
 
 Not: Bu programı Python3 kullanarak çalıştırmanızı öneririm.
 
